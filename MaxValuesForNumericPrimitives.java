@@ -1,3 +1,6 @@
+// Note: In Windows 10, the ANSI color escape sequences in examples/CLIColors.java
+// may output the sequences instead of setting the colors. The implementation of a
+// workaround is not currently planned.
 import examples.CLIColors;
 
 public class MaxValuesForNumericPrimitives {
