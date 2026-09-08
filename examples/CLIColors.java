@@ -1,3 +1,5 @@
+package examples;
+
 public class CLIColors {
   public static final String NORMAL =        "\033[0m";
   public static final String RESET =         NORMAL;

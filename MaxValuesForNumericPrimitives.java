@@ -1,3 +1,5 @@
+import examples.CLIColors;
+
 public class MaxValuesForNumericPrimitives {
   public static void main(String[] args) {
     // Remember BaSIL For Dressing, or BaSIL FD (the letter “a” doesn’t stand for anything):
